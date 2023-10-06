@@ -1,13 +1,13 @@
 {
-  "recommended": "54f501f",
-  "latest": "54f501f",
+  "recommended": "477f144",
+  "latest": "477f144",
   "blobs": [
     {
-      "build": "54f501f",
+      "build": "477f144",
       "build_date": "20231002",
       "status": "Stable",
       "changelog": "- First release.",
-      "blob": "blobs/54f501f.bin"
+      "blob": "blobs/477f144.bin"
     }
   ]
 }
