@@ -4,7 +4,7 @@
   "blobs": [
     {
       "build": "477f144",
-      "build_date": "20231002",
+      "build_date": "20231004",
       "status": "Stable",
       "changelog": "- First release.",
       "blob": "blobs/477f144.bin"
