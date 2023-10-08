@@ -8,6 +8,13 @@
       "status": "Stable",
       "changelog": "- First release.",
       "blob": "blobs/477f144.bin"
+    },
+    {
+      "build": "584b7aa",
+      "build_date": "20231008",
+      "status": "Development",
+      "changelog": "- Fix for kamstrups encryption password encoding fail.<br/>",
+      "blob": "blobs/584b7aa.bin"
     }
   ]
 }
