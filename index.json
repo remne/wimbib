@@ -13,7 +13,7 @@
       "build": "6ec5007",
       "build_date": "20231009",
       "status": "Development",
-      "changelog": "- Enable water volume sensor to be used in the energy dasbhboard.<br/>- Fix for kamstrups encryption password encoding fail.<br/>",
+      "changelog": "- Enable water volume sensor to be used in the energy dashboard.<br/>- Fix for kamstrups encryption password encoding fail.<br/>",
       "blob": "blobs/6ec5007.bin"
     }
   ]
