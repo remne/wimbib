@@ -1,0 +1,16 @@
+{
+  "name": "WIMBIB Development",
+  "version": "6ec5007",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "dev/bootloader_dio_40m.bin", "offset": 4096 },
+        { "path": "dev/partitions.bin", "offset": 32768 },
+        { "path": "dev/boot_app0.bin", "offset": 57344 },
+        { "path": "dev/6ec5007.bin", "offset": 65536 }
+      ]
+    }
+  ]
+}
