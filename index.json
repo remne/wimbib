@@ -10,11 +10,11 @@
       "blob": "blobs/477f144.bin"
     },
     {
-      "build": "584b7aa",
-      "build_date": "20231008",
+      "build": "6ec5007",
+      "build_date": "20231009",
       "status": "Development",
-      "changelog": "- Fix for kamstrups encryption password encoding fail.<br/>",
-      "blob": "blobs/584b7aa.bin"
+      "changelog": "- Enable water volume sensor to be used in the energy dasbhboard.<br/>- Fix for kamstrups encryption password encoding fail.<br/>",
+      "blob": "blobs/6ec5007.bin"
     }
   ]
 }
