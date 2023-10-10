@@ -6,10 +6,10 @@
     {
       "chipFamily": "ESP32",
       "parts": [
-        { "path": "dev/bootloader_dio_40m.bin", "offset": 4096 },
-        { "path": "dev/partitions.bin", "offset": 32768 },
-        { "path": "dev/boot_app0.bin", "offset": 57344 },
-        { "path": "dev/6ec5007.bin", "offset": 65536 }
+        { "path": "dev_6ec5007/bootloader_dio_40m.bin", "offset": 4096 },
+        { "path": "dev_6ec5007/partitions.bin", "offset": 32768 },
+        { "path": "dev_6ec5007/boot_app0.bin", "offset": 57344 },
+        { "path": "dev_6ec5007/6ec5007.bin", "offset": 65536 }
       ]
     }
   ]
