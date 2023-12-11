@@ -17,11 +17,11 @@
       "blob": "blobs/6ec5007.bin"
     },
     {
-      "build": "8c925c9",
+      "build": "e4bf8cb",
       "build_date": "20231210",
       "status": "Development",
       "changelog": "- FlowIQ support.<br/>- Full frame parsing.<br/>",
-      "blob": "blobs/8c925c9.bin"
+      "blob": "blobs/e4bf8cb.bin"
     }
   ]
 }
