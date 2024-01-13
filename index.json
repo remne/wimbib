@@ -10,11 +10,11 @@
       "blob": "blobs/477f144.bin"
     },
     {
-      "build": "e0ca9b2",
-      "build_date": "20240103",
+      "build": "82c5bf0",
+      "build_date": "20240113",
       "status": "Development",
-      "changelog": "- FlowIQ support.<br/>- Full frame parsing.<br/>",
-      "blob": "blobs/e0ca9b2.bin"
+      "changelog": "- Fix minor bug in the mbus stack.<br/>- Add debug page in the web ui.<br/>- FlowIQ support.<br/>",
+      "blob": "blobs/82c5bf0.bin"
     }
   ]
 }
