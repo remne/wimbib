@@ -10,11 +10,11 @@
       "blob": "blobs/477f144.bin"
     },
     {
-      "build": "7c900bc",
+      "build": "f2d102d",
       "build_date": "20240113",
       "status": "Development",
       "changelog": "- Fix minor bug in the mbus stack.<br/>- Add debug page in the web ui.<br/>- FlowIQ support.<br/>",
-      "blob": "blobs/7c900bc.bin"
+      "blob": "blobs/f2d102d.bin"
     }
   ]
 }
