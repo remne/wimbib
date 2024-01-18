@@ -3,16 +3,9 @@
   "latest": "477f144",
   "blobs": [
     {
-      "build": "477f144",
-      "build_date": "20231004",
-      "status": "Stable",
-      "changelog": "- First release.",
-      "blob": "blobs/477f144.bin"
-    },
-    {
       "build": "f2d102d",
       "build_date": "20240113",
-      "status": "Development",
+      "status": "Stable",
       "changelog": "- Fix minor bug in the mbus stack.<br/>- Add debug page in the web ui.<br/>- FlowIQ support.<br/>",
       "blob": "blobs/f2d102d.bin"
     }
