@@ -10,11 +10,11 @@
       "blob": "blobs/66fafab.bin"
     },
     {
-      "build": "ee6b616",
+      "build": "02b0a96",
       "build_date": "20240217",
       "status": "Development",
-      "changelog": "- Dynamic sensor registration.<br/>- Improvements in the wmbus stack.<br/>",
-      "blob": "blobs/ee6b616.bin"
+      "changelog": "- Dynamic sensor registration.<br/>- Improvements in the wmbus stack.<br/>- Improved wifi/mqtt handling.<br/>- Improved LED blinking schema<br/>",
+      "blob": "blobs/02b0a96.bin"
   }
   ]
 }
