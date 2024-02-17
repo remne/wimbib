@@ -1,25 +1,25 @@
 {
   "name": "WIMBIB Development",
-  "version": "66fafab",
+  "version": "cb40c0f",
   "new_install_prompt_erase": false,
   "builds": [
     {
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "dev_66fafab/bootloader_dio_40m.bin",
+          "path": "dev_cb40c0f/bootloader_dio_40m.bin",
           "offset": 4096
         },
         {
-          "path": "dev_66fafab/partitions.bin",
+          "path": "dev_cb40c0f/partitions.bin",
           "offset": 32768
         },
         {
-          "path": "dev_66fafab/boot_app0.bin",
+          "path": "dev_cb40c0f/boot_app0.bin",
           "offset": 57344
         },
         {
-          "path": "dev_66fafab/firmware.bin",
+          "path": "dev_cb40c0f/firmware.bin",
           "offset": 65536
         }
       ]
