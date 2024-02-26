@@ -1,14 +1,7 @@
 {
-  "recommended": "66fafab",
-  "latest": "66fafab",
+  "recommended": "02b0a96",
+  "latest": "02b0a96",
   "blobs": [
-    {
-      "build": "66fafab",
-      "build_date": "20240124",
-      "status": "Stable",
-      "changelog": "- Fix minor bug in the mbus stack.<br/>- Add debug page in the web ui.<br/>- FlowIQ support.<br/>",
-      "blob": "blobs/66fafab.bin"
-    },
     {
       "build": "02b0a96",
       "build_date": "20240217",
