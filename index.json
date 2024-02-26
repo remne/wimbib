@@ -12,8 +12,8 @@
     {
       "build": "02b0a96",
       "build_date": "20240217",
-      "status": "Development",
-      "changelog": "<b>READ THIS BEFORE UPGRADING:<b/> <a href=\"https://remne.tech/wimbib-guide/\">https://remne.tech/wimbib-guide/</a><br/>- Dynamic sensor registration.<br/>- Improvements in the wmbus stack.<br/>- Improved wifi/mqtt handling.<br/>- Improved LED blinking schema<br/>",
+      "status": "Stable",
+      "changelog": "<b>READ THIS BEFORE UPGRADING: </b><br/><a href=\"https://remne.tech/wimbib-guide/\">https://remne.tech/wimbib-guide/</a><br/>- Dynamic sensor registration.<br/>- Improvements in the wmbus stack.<br/>- Improved wifi/mqtt handling.<br/>- Improved LED blinking schema.<br/>",
       "blob": "blobs/02b0a96.bin"
   }
   ]
