@@ -3,6 +3,13 @@
   "latest": "02b0a96",
   "blobs": [
     {
+      "build": "bc67c2b",
+      "build_date": "20240823",
+      "status": "Development",
+      "changelog": "- Passwords handling changed to 'set and forget'.<br/>- CSRF token in critical internal REST APIs.</br>- Possibility to flash other firmwares than official firmwares OTA removed.<br/>- Bump ESP-IDF to v5.3<br/>- Wi-Fi password length limited to 64 chars.<br/>",
+      "blob": "blobs/bc67c2b.bin"
+    },
+    {
       "build": "02b0a96",
       "build_date": "20240217",
       "status": "Stable",
