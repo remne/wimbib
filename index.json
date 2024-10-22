@@ -17,11 +17,11 @@
       "blob": "blobs/02b0a96.bin"
     },
     {
-      "build": "14856c7",
-      "build_date": "20241006",
+      "build": "a99235b",
+      "build_date": "20241022",
       "status": "Development",
       "changelog": "Test firmware for Hydrus meters. DO NOT INSTALL.<br/>",
-      "blob": "blobs/14856c7.bin"
+      "blob": "blobs/a99235b.bin"
     }
   ]
 }
