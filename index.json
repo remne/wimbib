@@ -6,22 +6,15 @@
       "build": "bc67c2b",
       "build_date": "20240823",
       "status": "Development",
-      "changelog": "- Passwords handling changed to 'set and forget'.<br/>- CSRF token in critical internal REST APIs.</br>- Possibility to flash other firmwares than official firmwares OTA removed.<br/>- Bump ESP-IDF to v5.3<br/>- Wi-Fi password length limited to 64 chars.<br/>",
+      "changelog": "- Passwords handling changed to 'set and forget'.<br/>- CSRF token in critical internal REST APIs.</br>- Possibility to flash other firmwares than official firmwares OTA removed.<br/>- Bump platform<br/>- Wi-Fi password length limited to 64 chars.<br/>",
       "blob": "blobs/bc67c2b.bin"
     },
     {
-      "build": "02b0a96",
-      "build_date": "20240217",
-      "status": "Stable",
-      "changelog": "<b>READ THIS BEFORE UPGRADING: </b><br/><a href=\"https://remne.tech/wimbib-guide/\">https://remne.tech/wimbib-guide/</a><br/>- Dynamic sensor registration.<br/>- Improvements in the wmbus stack.<br/>- Improved wifi/mqtt handling.<br/>- Improved LED blinking schema.<br/>",
-      "blob": "blobs/02b0a96.bin"
-    },
-    {
-      "build": "a99235b",
-      "build_date": "20241022",
+      "build": "7e5d5a1",
+      "build_date": "20241030",
       "status": "Development",
       "changelog": "Test firmware for Hydrus meters. DO NOT INSTALL.<br/>",
-      "blob": "blobs/a99235b.bin"
+      "blob": "blobs/7e5d5a1.bin"
     }
   ]
 }
