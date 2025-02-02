@@ -1,20 +1,20 @@
 {
-  "recommended": "02b0a96",
-  "latest": "02b0a96",
+  "recommended": "bc67c2b",
+  "latest": "bc67c2b",
   "blobs": [
     {
       "build": "bc67c2b",
       "build_date": "20240823",
-      "status": "Development",
+      "status": "Stable",
       "changelog": "- Passwords handling changed to 'set and forget'.<br/>- CSRF token in critical internal REST APIs.</br>- Possibility to flash other firmwares than official firmwares OTA removed.<br/>- Bump platform<br/>- Wi-Fi password length limited to 64 chars.<br/>",
       "blob": "blobs/bc67c2b.bin"
     },
     {
-      "build": "7e5d5a1",
-      "build_date": "20241030",
+      "build": "2272748",
+      "build_date": "20250202",
       "status": "Development",
-      "changelog": "Test firmware for Hydrus meters. DO NOT INSTALL.<br/>",
-      "blob": "blobs/7e5d5a1.bin"
+      "changelog": "- Diehl Hydrus 2.0 support.<br/>- Axioma Qalcosonic W1 support.<br/>BSSID Wi-Fi selectable.<br/>- OLED sleep between radio frames.<br/>- Optimize webUI loading time.<br/>Minor fixes and changes.<br/>",
+      "blob": "blobs/2272748.bin"
     }
   ]
 }
