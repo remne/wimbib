@@ -10,11 +10,11 @@
       "blob": "blobs/bc67c2b.bin"
     },
     {
-      "build": "aa1788e",
-      "build_date": "20250202",
+      "build": "2e1d34c",
+      "build_date": "20250207",
       "status": "Development",
-      "changelog": "- Diehl Hydrus 2.0 support.<br/>- Axioma Qalcosonic W1 support.<br/>- BSSID Wi-Fi selectable.<br/>- OLED sleep between radio frames after 10minutes.<br/>- Optimize webUI loading time.<br/>- Minor fixes and changes.<br/>",
-      "blob": "blobs/aa1788e.bin"
+      "changelog": "- Fix AP mode bug due to changes in platform API.<br/>- Diehl Hydrus 2.0 support.<br/>- Axioma Qalcosonic W1 support.<br/>- BSSID Wi-Fi selectable.<br/>- OLED sleep between radio frames after 10minutes.<br/>- Optimize webUI loading time.<br/>- Minor fixes and changes.<br/>",
+      "blob": "blobs/2e1d34c.bin"
     }
   ]
 }
