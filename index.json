@@ -15,6 +15,13 @@
       "status": "Development",
       "changelog": "- Fix AP mode bug due to changes in platform API.<br/>- Diehl Hydrus 2.0 support.<br/>- Axioma Qalcosonic W1 support.<br/>- BSSID Wi-Fi selectable.<br/>- OLED sleep between radio frames after 10minutes.<br/>- Optimize webUI loading time.<br/>- Minor fixes and changes.<br/>",
       "blob": "blobs/2e1d34c.bin"
+    },
+    {
+      "build": "649d033",
+      "build_date": "20250306",
+      "status": "Development",
+      "changelog": "- OLED display sleep UI configuration.<br/>- Baseband thread moved to dedicated cpu core.<br/>- Some refactoring to support multiple watermeters (not yet available feature).<br/>",
+      "blob": "blobs/2e1d34c.bin"
     }
   ]
 }
