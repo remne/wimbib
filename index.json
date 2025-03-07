@@ -21,7 +21,7 @@
       "build_date": "20250306",
       "status": "Development",
       "changelog": "- OLED display sleep UI configuration.<br/>- Baseband thread moved to dedicated cpu core.<br/>- Some refactoring to support multiple watermeters (not yet available feature).<br/>",
-      "blob": "blobs/2e1d34c.bin"
+      "blob": "blobs/649d033.bin"
     }
   ]
 }
