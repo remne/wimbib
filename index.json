@@ -17,11 +17,11 @@
       "blob": "blobs/2e1d34c.bin"
     },
     {
-      "build": "649d033",
-      "build_date": "20250306",
+      "build": "07b7577",
+      "build_date": "20250317",
       "status": "Development",
-      "changelog": "- OLED display sleep UI configuration.<br/>- Baseband thread moved to dedicated cpu core.<br/>- Some refactoring to support multiple watermeters (not yet available feature).<br/>",
-      "blob": "blobs/649d033.bin"
+      "changelog": "- OLED display sleep UI configuration.<br/>- Baseband thread moved to dedicated cpu core.<br/>- Some refactoring to support multiple watermeters (not yet available feature).<br/>- Add additional Kamstrup manufacturer ID.<br/>",
+      "blob": "blobs/07b7577.bin"
     }
   ]
 }
