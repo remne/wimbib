@@ -15,6 +15,13 @@
       "status": "Stable",
       "changelog": "- OLED display sleep UI configuration.<br/>- Baseband thread moved to dedicated cpu core.<br/>- Some refactoring to support multiple watermeters (not yet available feature).<br/>- Add additional Kamstrup manufacturer ID.<br/>- Fix AP mode bug due to changes in platform API.<br/>- Diehl Hydrus 2.0 support.<br/>- Axioma Qalcosonic W1 support.<br/>- BSSID Wi-Fi selectable.<br/>- OLED sleep between radio frames after 10minutes.<br/>- Optimize webUI loading time.<br/>- Minor fixes and changes.<br/>",
       "blob": "blobs/07b7577.bin"
+    },
+    {
+      "build": "005dd71",
+      "build_date": "20250427",
+      "status": "Development",
+      "changelog": "- Set device class 'volume_flow_rate' for HA sensors that have m3/h as unit of measure<br/>",
+      "blob": "blobs/005dd71.bin"
     }
   ]
 }

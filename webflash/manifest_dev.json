@@ -1,25 +1,25 @@
 {
   "name": "WIMBIB Development",
-  "version": "07b7577",
+  "version": "005dd71",
   "new_install_prompt_erase": false,
   "builds": [
     {
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "dev_07b7577/bootloader_dio_40m.bin",
+          "path": "dev_005dd71/bootloader_dio_40m.bin",
           "offset": 4096
         },
         {
-          "path": "dev_07b7577/partitions.bin",
+          "path": "dev_005dd71/partitions.bin",
           "offset": 32768
         },
         {
-          "path": "dev_07b7577/boot_app0.bin",
+          "path": "dev_005dd71/boot_app0.bin",
           "offset": 57344
         },
         {
-          "path": "dev_07b7577/firmware.bin",
+          "path": "dev_005dd71/firmware.bin",
           "offset": 65536
         }
       ]
