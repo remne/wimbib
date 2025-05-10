@@ -17,11 +17,11 @@
       "blob": "blobs/07b7577.bin"
     },
     {
-      "build": "005dd71",
-      "build_date": "20250427",
+      "build": "1a9b8f0",
+      "build_date": "20250510",
       "status": "Development",
-      "changelog": "- Set device class 'volume_flow_rate' for HA sensors that have m3/h as unit of measure<br/>",
-      "blob": "blobs/005dd71.bin"
+      "changelog": "-Add encryption mode 5 support (CBC IV).<br/>- Set device class 'volume_flow_rate' and change from 'total' to 'measurement' state class for HA sensors that have m3/h as unit of measure<br/>",
+      "blob": "blobs/1a9b8f0.bin"
     }
   ]
 }
