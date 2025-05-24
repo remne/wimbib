@@ -1,25 +1,25 @@
 {
   "name": "WIMBIB Development",
-  "version": "1a9b8f0",
+  "version": "d5d51eb",
   "new_install_prompt_erase": false,
   "builds": [
     {
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "dev_1a9b8f0/bootloader_dio_40m.bin",
+          "path": "dev_d5d51eb/bootloader_dio_40m.bin",
           "offset": 4096
         },
         {
-          "path": "dev_1a9b8f0/partitions.bin",
+          "path": "dev_d5d51eb/partitions.bin",
           "offset": 32768
         },
         {
-          "path": "dev_1a9b8f0/boot_app0.bin",
+          "path": "dev_d5d51eb/boot_app0.bin",
           "offset": 57344
         },
         {
-          "path": "dev_1a9b8f0/firmware.bin",
+          "path": "dev_d5d51eb/firmware.bin",
           "offset": 65536
         }
       ]
