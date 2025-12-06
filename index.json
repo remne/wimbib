@@ -10,11 +10,11 @@
       "blob": "blobs/d5d51eb.bin"
     },
     {
-      "build": "d2149d6",
-      "build_date": "20251128",
+      "build": "791557f",
+      "build_date": "20251206",
       "status": "Development",
-      "changelog": "- Add hydrus (old) version driver.<br/>",
-      "blob": "blobs/d2149d6.bin"
+      "changelog": "- Add hydrus (old) version driver.<br/>- Fix flow-actual sensor in Kamstrup driver.<br/>",
+      "blob": "blobs/791557f.bin"
     }
   ]
 }
